@@ -1,6 +1,6 @@
 # <center><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlrcHpkbG4yNnpxanA2cDJhczZxdXB0OXU2YWlrdXg1OTUwN2xjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="50"/> ¡Bienvenid@ a mi GitHub! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlrcHpkbG4yNnpxanA2cDJhczZxdXB0OXU2YWlrdXg1OTUwN2xjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="50"/></center>
 
-## Sobre mí 🤓
+## <br>Sobre mí 🤓
 Profesional en Ingeniería de Sistemas. Proactivo, con capacidad para trabajar bajo presión y volcar mis habilidades blandas e interdisciplinarias. Alta capacidad de análisis para buscar soluciones de manera independiente o grupal, enfocado a lograr los objetivos del puesto y las metas de la organización.
 [<center>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</center>](https://www.linkedin.com/in/jose-salvador-castro-antonio/)
 
@@ -29,7 +29,7 @@ Profesional en Ingeniería de Sistemas. Proactivo, con capacidad para trabajar b
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsalvadorca90&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsalvadorca90&layout=compact&theme=dark)
 
-[<br>🔼 Inicio](#sobre-mí-🤓)
+<!-- [<br>🔼 Inicio](#sobre-mí-🤓) -->
 
 <!--
 **jsalvadorca90/jsalvadorca90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
