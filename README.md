@@ -3,6 +3,7 @@
 ## <br>Sobre mí 🤓
 Profesional en Ingeniería de Sistemas. Proactivo, con capacidad para trabajar bajo presión y volcar mis habilidades blandas e interdisciplinarias. Alta capacidad de análisis para buscar soluciones de manera independiente o grupal, enfocado a lograr los objetivos del puesto y las metas de la organización.
 [<center>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</center>](https://www.linkedin.com/in/jose-salvador-castro-antonio/)
+[<center>![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)</center>](https://www.linkedin.com/in/jose-salvador-castro-antonio/)
 
 ## <br>Tecnologías 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
