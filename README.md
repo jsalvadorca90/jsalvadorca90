@@ -1,9 +1,11 @@
 <h1 align="center"><img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlrcHpkbG4yNnpxanA2cDJhczZxdXB0OXU2YWlrdXg1OTUwN2xjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="50"/> ¡Bienvenid@ a mi GitHub! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlrcHpkbG4yNnpxanA2cDJhczZxdXB0OXU2YWlrdXg1OTUwN2xjeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif" width="50"/></h1>
+<p align="center"><a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=14&lines=>+Conoce+mi+experiencia+profesional+y+habilidades+adquiridas..."/></a></p>
 
 ## <br>Sobre mí 🤓
-Profesional en Ingeniería de Sistemas. Proactivo, con capacidad para trabajar bajo presión y volcar mis habilidades blandas e interdisciplinarias. Alta capacidad de análisis para buscar soluciones de manera independiente o grupal, enfocado a lograr los objetivos del puesto y las metas de la organización.
+<p align="justify">Desarrollador FullStack, con experiencia mayor de 2 años en el desarrollo backend con Java EE (Spring Boot) y PHP (Laravel), y frontend con tecnologías web modernas. Experiencia en la creación de APIs Rest y la gestión de bases de datos relacionales como Oracle y MySQL. Comprometido con la entrega de soluciones de software de calidad, demostrando capacidad de análisis y resolución de problemas.</p>
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-salvador-castro-antonio/)
+<p align="center"><a href="https://www.linkedin.com/in/jose-salvador-castro-antonio" target="_blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="@jsalvadorca90"/></a></p>
+<!-- [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-salvador-castro-antonio/) -->
 
 ## <br>Tecnologías 💻
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
